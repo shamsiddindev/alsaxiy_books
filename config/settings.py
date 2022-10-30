@@ -30,6 +30,7 @@ INSTALLED_APPS = [
     'django_password_validators.password_history',
     'rest_framework_simplejwt',
     'users',
+    'books',
 ]
 
 MIDDLEWARE = [
